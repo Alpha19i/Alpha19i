@@ -1,8 +1,8 @@
 ## Olá! Tudo bem? Eu sou Camilo Italo :technologist: 👋
 
-Sou estudante de Ciência da Computação e entusiasta das melhores tecnologias de desenvolvimento.
+Sou formado em Ciência da Computação e entusiasta das melhores tecnologias de desenvolvimento.
 
-- 🔭 Atualmente estou no 7º periodo de Ciência da Computação
+- 🔭 Atualmente estou aprimorando meus conhecimentos em Linux 🐧
 - 🌱 Estou aprendendo React Native, TypeScript e JavaScript
 -  :sparkles: Esses são alguns dos assuntos que pretendo estudar em um futuro próximo: NodeJS e Banco de Dados.
 
